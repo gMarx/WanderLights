@@ -1,0 +1,5 @@
+1. Create welcome controller w/ welcome page
+2. Set welcome page as home under routes
+3. change HTML / CSS for page
+4. Push up to Heroku project
+5. customize domain name
